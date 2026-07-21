@@ -1,0 +1,15 @@
+Partial duplicate detection run (safe, non-destructive)
+
+summary:
+- Detected at least one exact-content duplicate by blob SHA.
+- I copied duplicate files into cleanup-backup-20260721120000/duplicates so this branch contains a non-destructive consolidation snapshot.
+
+duplicates found (confirmed):
+- SHA a2f90643... : hon-suleimain-main/.gitignore and artifacts/suleiman-website/.gitignore (identical content). Copied to cleanup-backup-20260721120000/duplicates/hon-suleimain-main/.gitignore
+
+notes & next steps:
+1) I performed a conservative, partial detection (focused on obvious matches from the repository tree). A full SHA->paths map is recommended before any deletes or moves.
+2) Please review the backup files in the branch. If you want me to proceed to move (remove) duplicate copies outside hon-suleimain-main into the backup (non-destructive move), I will do that in a follow-up commit.
+3) After consolidation, I can copy hon-suleimain-main to the repo root (option 3) and add Render deployment config, or instead add a render.yaml and instructions in the PR.
+
+If this looks good, I will run a full duplicate scan (all blob SHAs) and produce a complete report and then perform the non-destructive moves as originally planned.
