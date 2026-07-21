@@ -8,6 +8,8 @@
     "news": "Labarai",
     "gallery": "Gidan Hoto",
     "media": "Kafofin Watsa Labarai",
+    "party_leadership": "Jagorancin Jam'iyya",
+    "aspirants": "Yan Takarar NDC",
     "volunteer": "Aikin Sa-kai",
     "contact": "Tuntuɓa"
   },
@@ -23,11 +25,11 @@
     "scroll": "Zazzage"
   },
   "about": {
-    "section_title": "Sanin Masha. Suleiman",
+    "section_title": "Sanin Sanata Marafa",
     "read_bio": "Karanta Tarihin Rayuwa Duka",
     "page": {
       "hero_pre": "Haɗu da",
-      "hero_accent": "Masha. Suleiman",
+      "hero_accent": "Sanata Marafa",
       "hero_desc": "Rayuwa gaba ɗaya na sadaukarwa don ci gaban, salama, da ci gaban Jihar Zamfara.",
       "philosophy_title": "Falsafar Kansa",
       "journey_title": "Tafiyar Hidima",
@@ -151,7 +153,7 @@
     "page": {
       "hero_pre": "Tuntuɓe",
       "hero_accent": "Mu",
-      "hero_desc": "Kuna da tambaya, shawara, ko kuna son gayyata Masha. Suleiman zuwa al'ummarku? Muna nan don saurare.",
+      "hero_desc": "Kuna da tambaya, shawara, ko kuna son gayyata Sanata Marafa zuwa al'ummarku? Muna nan don saurare.",
       "form_heading": "Aika Saƙo",
       "form_submit": "Aika Saƙon",
       "form_success": "Na gode da tuntuɓarmu. Za mu mayar da amsa nan gaba da zaran za mu iya.",

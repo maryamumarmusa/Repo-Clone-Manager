@@ -8,6 +8,8 @@
     "news": "News",
     "gallery": "Gallery",
     "media": "Media",
+    "party_leadership": "Party Leadership",
+    "aspirants": "NDC Aspirants",
     "volunteer": "Volunteer",
     "contact": "Contact"
   },
@@ -23,11 +25,11 @@
     "scroll": "Scroll"
   },
   "about": {
-    "section_title": "Meet Hon. Suleiman",
+    "section_title": "Meet Sen. Marafa",
     "read_bio": "Read Full Biography",
     "page": {
       "hero_pre": "Meet",
-      "hero_accent": "Hon. Suleiman",
+      "hero_accent": "Sen. Marafa",
       "hero_desc": "A lifetime of dedication to the prosperity, peace, and progress of Zamfara State.",
       "philosophy_title": "Personal Philosophy",
       "journey_title": "A Journey of Service",
@@ -151,7 +153,7 @@
     "page": {
       "hero_pre": "Get in",
       "hero_accent": "Touch",
-      "hero_desc": "Have a question, suggestion, or want to invite Hon. Suleiman to your community? We're here to listen.",
+      "hero_desc": "Have a question, suggestion, or want to invite Sen. Marafa to your community? We're here to listen.",
       "form_heading": "Send a Message",
       "form_submit": "Send Message",
       "form_success": "Thank you for reaching out. We will get back to you as soon as possible.",

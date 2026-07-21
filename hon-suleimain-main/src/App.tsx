@@ -14,6 +14,8 @@ import ProgramDetail from './pages/ProgramDetail';
 import News from './pages/News';
 import Gallery from './pages/Gallery';
 import Media from './pages/Media';
+import PartyLeadership from './pages/PartyLeadership';
+import Aspirants from './pages/Aspirants';
 import Volunteer from './pages/Volunteer';
 import Contact from './pages/Contact';
 import Success from './pages/Success';
@@ -34,6 +36,8 @@ function Router() {
         <Route path="/news" component={News} />
         <Route path="/gallery" component={Gallery} />
         <Route path="/media" component={Media} />
+        <Route path="/party-leadership" component={PartyLeadership} />
+        <Route path="/aspirants" component={Aspirants} />
         <Route path="/volunteer" component={Volunteer} />
         <Route path="/contact" component={Contact} />
         <Route path="/success" component={Success} />
